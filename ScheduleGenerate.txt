@@ -1,0 +1,28 @@
+Fall 2016 OpenCENG-5013-91(6166) HDL Design        08/29/2016-12/16/2016 Web Based Internet Monday Tuesday Wednesday Thursday Friday Time to be announced Rooms to be announcedDr Steve Maher24/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5033-01(7180) Software Systems Engineering        08/29/2016-12/21/2016 Lecture Days to be announced 6:00pm - 9:30pm Rooms to be announcedStaff24/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5033-02(7297) Software Systems Engineering        10/27/2016-12/15/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterDr Colin Doyle19/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5033-01(7283) Advanced Computer Architecture        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Noble Science WingMr Joe Watson11/15/03.00          Graduate
+_________
+Fall 2016OpenCENG-5033-02(7351) Advanced Computer Architecture        10/24/2016-12/12/2016 Lecture Days to be announced 6:00pm - 9:30pm Noble Science WingMr Joe Watson25/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5613-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Nicolas Grounds9/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5813-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Peter Paton9/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5022-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Nicolas Grounds30/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5613-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterDr Colin Doyle8/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5633-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterDr Steve Maher12/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5013-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Nicolas Grounds19/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5213-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Nicolas Grounds17/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5633-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterStaff9/25/03.00          Graduate
+_________
+Fall 2016OpenCENG-5613-02(5895) Object Oriented Software Eng        08/29/2016-10/17/2016 Lecture Days to be announced 6:00pm - 9:30pm Prince Engineering CenterMr Joe Watson6/25/03.00          Graduate
+_________
