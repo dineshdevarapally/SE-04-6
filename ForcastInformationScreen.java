@@ -183,14 +183,8 @@ public class ForcastInformationScreen extends JFrame {
             // remove selected row from the model
             tableModel.removeRow(table.getSelectedRow());
             JOptionPane.showMessageDialog(null, "Row Deleted Successfully", "Success", JOptionPane.INFORMATION_MESSAGE);
-        }
-            
-            
-        
-
+                }
     }
             });
-
-
     }
 }
